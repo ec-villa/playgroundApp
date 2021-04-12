@@ -9,7 +9,7 @@ trigger:
 variables:
 
   # Azure Resource Manager connection created during pipeline creation
-  azureSubscription: 'd7d739af-41d8-44ea-8172-c6b2a35c458b'
+  azureSubscription: '8492020c-548b-4ad3-a8ec-1847b7160893'
 
   # Web app name
   webAppName: 'levelup-sc'
